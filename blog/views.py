@@ -6,6 +6,7 @@ from .forms import EmailPostForm
 from django.core.mail import send_mail
 from .forms import CommentForm
 from taggit.models import Tag
+# from django.db.models import Count
 
 # Create your views here.
 
